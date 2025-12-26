@@ -170,13 +170,6 @@ This project is for educational and analytical purposes. All data is sourced fro
 ## 🔗 References
 
 - [Financial Stability Oversight Council (FSOC) 2025 Annual Report](https://home.treasury.gov/system/files/261/FSOC2025AnnualReport.pdf)
-- All page references correspond to the FSOC 2025 Annual Report
-
----
-
-## 📅 Last Updated
-
-December 2025
 
 ---
 
